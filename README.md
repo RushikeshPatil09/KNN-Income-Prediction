@@ -54,19 +54,20 @@ The prediction is based on demographic and employment-related features such as:
 ## 📸 Screenshots
 
 ### 1. Uploading Dataset and Preview  
-![Upload](https://github.com/RushikeshPatil09/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104035.png?raw=true}
+![Upload](https://github.com/RushikeshPatil09/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104035.png?raw=true)
 
 ### 2. After Label Encoding  
-![Encoded Data](https://github.com/user-attachments/assets/488d58e7-0d29-48a8-a4be-9647783a33da/Screenshot%202025-07-19%20104232.png)
+![Encoded Data](https://github.com/RushikeshPatil09/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104113.png?raw=true)
 
 ### 3. Model Accuracy and Report  
-![Accuracy Report](https://github.com/user-attachments/assets/4aa5730c-ce60-4eca-a08f-36c64d931840/Screenshot%202025-07-19%20104248.png)
+![Accuracy Report](https://github.com/RushikeshPatil09/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104248.png?raw=true)
 
 ### 4. Confusion Matrix  
-![Confusion Matrix](https://github.com/user-attachments/assets/16fc1215-ccbd-4d96-a5e1-701883729c42/Screenshot%202025-07-19%20104307.png)
+![Confusion Matrix](https://github.com/RushikeshPatil09/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104307.png?raw=true)
 
 ### 5. Accuracy vs K Value Plot  
-![K Accuracy Plot](https://github.com/user-attachments/assets/2b9d63f3-89eb-41c0-8d4a-6704aee6fd96/Screenshot%202025-07-19%20104327.png)
+![K Accuracy Plot](https://github.com/RushikeshPatil09/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104327.png?raw=true)
+
 
 ---
 
@@ -94,8 +95,8 @@ The prediction is based on demographic and employment-related features such as:
 
 **Rushikesh Patil**  
 💼 Internship: IBM SkillBuild AI/ML  
-📅 Internship Period: [Insert dates here]  
-📫 GitHub: [yourusername](https://github.com/yourusername)
+📅 Internship Period: 6 Week 
+📫 GitHub: RushikeshPatil09(https://github.com/RushikeshPatil09)
 
 ---
 
