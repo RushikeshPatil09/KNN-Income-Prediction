@@ -54,7 +54,7 @@ The prediction is based on demographic and employment-related features such as:
 ## 📸 Screenshots
 
 ### 1. Uploading Dataset and Preview  
-![Upload](https://github.com/user-attachments/assets/d23f7b9a-0241-4990-8f0a-a29321d9a649/Screenshot%202025-07-19%20104035.png)
+![Upload](https://github.com/RushikeshPatil09/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104035.png?raw=true}
 
 ### 2. After Label Encoding  
 ![Encoded Data](https://github.com/user-attachments/assets/488d58e7-0d29-48a8-a4be-9647783a33da/Screenshot%202025-07-19%20104232.png)
