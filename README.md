@@ -34,11 +34,13 @@ To build a classification model that can determine income category (<=50K or >50
 nshots/upload.png)
 
 ### 2. After Label Encoding
-![Encoded Data](<img width="1746" height="544" alt="Screenshot 2025-07-19 104113" src="https://github.com/user-attachments/assets/78289ebb-108d-4d47-be5f-eff4062cb75e" />
-)
+![Upload](scree<img width="1746" height="544" alt="Screenshot 2025-07-19 104113" src="https://github.com/user-attachments/assets/da98777d-74df-427f-97f1-948bf8a02697" />)
+
+
 
 ### 3. Model Accuracy and Report
-![Accuracy Report](<img width="876" height="409" alt="Screenshot 2025-07-19 104248" src="https://github.com/user-attachments/assets/c466a26a-e6b9-45ab-81f8-1afa9ad10b95" />
+![Accuracy Report](<img width="876" height="409" alt="Screenshot 2025-07-19 104248" src="https://github.com/user-attachments/assets/8c1f3ded-a2bf-4701-bdf3-3156f7d6cf01" />
+
 )
 
 ### 4. Confusion Matrix
